@@ -1,0 +1,23 @@
+# File Explorer - Operating Systems Mini Project
+# Requirements file
+#
+# Note: This project uses only Python standard library modules.
+# No external packages are required.
+#
+# Standard library modules used:
+# - os
+# - tkinter
+# - shutil
+# - datetime
+# - stat
+# - subprocess
+# - platform
+# - threading
+# - pathlib
+# - json (for config file)
+#
+# If tkinter is not available, install it:
+# Ubuntu/Debian: sudo apt-get install python3-tk
+# macOS: Comes with Python
+# Windows: Comes with Python
+

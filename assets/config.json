@@ -1,0 +1,11 @@
+{
+  "app_name": "File Explorer",
+  "version": "1.0.0",
+  "default_path": "~",
+  "show_hidden_files": false,
+  "default_sort": "name",
+  "theme": "light",
+  "recent_folders": [],
+  "favorite_folders": []
+}
+
