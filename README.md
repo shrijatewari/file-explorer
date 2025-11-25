@@ -53,7 +53,8 @@ A modern, feature-rich **File Explorer** desktop application built with **Python
    <img width="1185" height="182" alt="image" src="https://github.com/user-attachments/assets/85d80777-5ea5-442f-b5b7-413a360f634a" />
 
 > - Additional pictures
-   ![Uploading image.png…]()
+   <img width="340" height="296" alt="image" src="https://github.com/user-attachments/assets/fc7fd9cf-5df2-4e64-8261-fb6092d9222e" />
+
    
 
 ## 🚀 Quick Start
