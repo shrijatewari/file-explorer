@@ -42,13 +42,19 @@ A modern, feature-rich **File Explorer** desktop application built with **Python
 
 ## 📸 Screenshots
 
-> **Note**: Add screenshots of your application here
 > 
 > - Main interface with file listing
-> - Dark mode view
+   <img width="1196" height="775" alt="image" src="https://github.com/user-attachments/assets/c514ee80-fda0-482e-97b7-b11d509e3245" />
+
 > - File details panel
+   <img width="1512" height="856" alt="image" src="https://github.com/user-attachments/assets/3782e474-fdfc-4a39-9f34-d70e5f28b8b9" />
+
 > - Search functionality
-> - Context menu
+   <img width="1185" height="182" alt="image" src="https://github.com/user-attachments/assets/85d80777-5ea5-442f-b5b7-413a360f634a" />
+
+> - Additional pictures
+   ![Uploading image.png…]()
+   
 
 ## 🚀 Quick Start
 
