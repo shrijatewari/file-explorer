@@ -236,7 +236,7 @@ This project is created for educational purposes to demonstrate Operating System
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/shrijatewari)
+- GitHub: [@shrijatewari](https://github.com/shrijatewari)
 - Email: shrijatewari@gmail.com
 
 ## 🙏 Acknowledgments
